@@ -1,0 +1,5 @@
+Schachner Associates, Depression/Anxiety, 1, 128 N. Craig St Suite 210 Pittsburgh PA 15213, (412) 683-1000, 1, 150, 1
+Barbara Lynn Smith, Depression/Anxiety, 2, 155 N. Craig Street Suite 170 Pittsburgh PA 15213, (412) 447-1754, 1, 125, 1
+Vincent Reginella, Depression/Anxiety, 1, 160 North Craig Street Suite 212 Pittsburgh PA 1521, (412) 687-1234, 1, 100, 2
+Thomas Petrone, Depression/Anxiety, 3, 1824 Murray Pittsburgh PA 15217, (412) 421-2205, 1, 150, 2
+Dawn Covington, Depression/Anxiety, 4, 1824 Murray Avenue Suite 304 Pittsburgh PA 15217, (412) 337-7959, 1, 100, 1
